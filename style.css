@@ -1,0 +1,29 @@
+#title
+{
+  position: fixed;
+  font-family: 'Cutive', monospace;
+  margin-left: 500px;
+  font-size: 25px;
+  color: grey;
+}
+
+.scorePart
+{
+  font-family: 'Cutive', monospace;
+  color: red;
+  font-size: 25px;
+}
+
+.buttons
+{
+position: absolute;
+margin-left: 500px;
+margin-top: 100px;
+}
+
+.timeClass
+{
+  font-family: 'Cutive', monospace;
+  color: blue;
+  font-size: 25px;
+}
